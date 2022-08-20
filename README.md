@@ -1,24 +1,98 @@
-# job-portal
 
-## Project setup
-```
-npm install
+# Job Portal
+
+Job portal is a web based single page application.
+Where a user can find a job as well as a recruiter can post a vacancy too.
+
+
+
+
+## Demo
+
+https://jobportal-vue.netlify.app/
+
+
+## Features
+
+- Easy and Light weight
+- Cross platform
+- Single Page Application
+- Fully Responsive
+- Vacancies can be applied by the user
+- Vacancies can be posted by the recruiter
+
+## Screenshots
+
+![App Screenshot](./image.png)
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/badass1901/Job-Portal
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+Go to the project directory
+
+```bash
+  cd my-project
 ```
 
-### Compiles and minifies for production
+Install dependencies
+
+```bash
+  npm install
 ```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install job-portal
+  cd job-portal
+```
+```bash
+  yarn install job-portal
+  cd job-portal
+```
+    
+## Build
+
+For production build run
+
+```bash
 npm run build
 ```
+OR
 
-### Lints and fixes files
-```
-npm run lint
+```bash
+yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+## 🛠 Tools
+- Vue js
+- Node
+
+
+## Support
+
+For support, email shashwatsagar19@gmail.com or visit https://shashwatsagar.netlify.app
+
